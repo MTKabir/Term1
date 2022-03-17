@@ -1,0 +1,13 @@
+
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+.Color{
+    width:80%;
+    border:1em brown dotted;
+    padding: 1em;
+    margin: 1em;
+
+}
